@@ -1,0 +1,52 @@
+.container{
+	width: 40%;
+}
+
+div.presidente{
+	float: left;
+}
+
+div.porcentagem{
+	float: right;
+}
+
+h1.percentual{
+	color: 	#a2a39f;
+}
+
+#progresso{
+	margin-left: 19px;
+	width:95%;
+	height: 7px
+}
+
+p.apuracao{
+	margin-left: 5px
+}
+
+span.secao{
+	font-weight: bold
+}
+
+.divisao{
+	margin: 40px 0px 40px 0px
+}
+
+h3.presida{
+	font-weight: bold
+}
+
+.foto{
+	margin-left: 20px;
+	height: 60px;
+	width: 60px;
+	border-radius: 100%;
+} 
+
+.nome{
+	margin-left: 15px;
+}
+
+p.partido{
+	color: gray;
+}
