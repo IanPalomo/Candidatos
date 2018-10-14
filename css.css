@@ -17,7 +17,7 @@ h1.percentual{
 #progresso{
 	margin-left: 19px;
 	width:95%;
-	height: 7px
+	height: 7px;
 }
 
 p.apuracao{
@@ -45,8 +45,35 @@ h3.presida{
 
 .nome{
 	margin-left: 15px;
+	float: left;
 }
 
 p.partido{
 	color: gray;
+}
+
+span.eli{
+	border-radius: 10px;
+	padding: 2px 4px 2px 4px;
+	color: white
+}
+
+.votos{
+	margin-left: 400px;
+}
+
+
+h3.nmr{
+	float: right;
+}
+
+span.qtd{
+	float: right;
+}
+
+span.segtu{
+	background-color: #31E275;
+	border-radius: 10px;
+	color: white;
+	padding: 2px 4px 2px 4px
 }
